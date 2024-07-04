@@ -7,6 +7,8 @@ export default function Home() {
     <nav>
       <Link href="Pagina1">Pagina1</Link>
       <Link href="Pagina2">Calculadora</Link>
+      <Link href="Pagina3">Registro</Link>
+
       </nav>
     <Perfil nombre="Pablo" apellido="Marmol" edad={30} rol="Docente"/>
     <Perfil nombre="Jose" apellido="Perez" edad={15} rol="Estudiante"/>
