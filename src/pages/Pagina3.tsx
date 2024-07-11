@@ -76,7 +76,7 @@ const pagina3 = () => {
             name='rut'></Form.Control>
         </Form.Group>
 
-        <Button variant='success' type='button'>Registrar</Button>
+        <Button onClick={registrar} variant='success' type='button'>Registrar</Button>
     </Form>
     </>
   )
